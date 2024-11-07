@@ -14,7 +14,7 @@ setup(
     description="A simple math quiz game",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/AshishMehtaAI/DSSS_Homework_Ashish",  # Replace with your GitHub repository URL
+    url="https://github.com/AshishMehtaAI/DSSS_Homework_Ashish",  
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
